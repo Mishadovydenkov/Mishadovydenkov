@@ -2,9 +2,16 @@
 
 [def]: https://github.com/Mishadovydenkov/Mishadovydenkov/blob/main/assets/header.gif
 
+<div id="header" align="center">
+
+`         Связаться со мной         `
+
+</div>
+
 [![Telegram](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=%2326A5E4)](https://t.me/hangenu)
 [![Telegram](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=maildotru&logoColor=%23FFCD00
 )](mailto:dovydenkov98@mail.ru)
+
 
 ## 👋 Привет, меня зовут Михаил!
 Я - QA Engineer с опытом ручного тестирования внутренних web-систем с интеграциями и сложной бизнес-логикой.
