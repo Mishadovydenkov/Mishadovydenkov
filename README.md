@@ -28,3 +28,36 @@
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
+## Проекты
+
+### Проект 1: MetaCheck — Telegram-бот для учёта рабочего времени сотрудников
+
+**Роль:** QA Engineer (разработка + полное тестирование)
+
+**Цель проекта**
+Разработать Telegram-бота для фиксации рабочего времени сотрудников и самостоятельно покрыть его полной тестовой документацией. Бот должен корректно обрабатывать основные, негативные и граничные сценарии.
+
+**Что реализовано:**
+- Чекин / чекаут сотрудников
+- Проверка геолокации (радиус офиса)
+- Учёт опозданий, раннего ухода и переработок
+- Управление рабочим графиком (роль администратора)
+- Валидация действий пользователя
+- Хранение данных в SQLite
+
+**Что сделано в части тестирования:**
+- Разработал тест-кейсы на позитивные, негативные и граничные сценарии (включая Boundary Value Analysis)
+- Составил Test Plan, Requirements Traceability Matrix и чек-листы (Smoke, Pre-release)
+- Провёл полный регрессионный прогон (**30/30 Passed**)
+- Подготовил Test Summary Report
+
+**Стек:** Python · aiogram · SQLite · Telegram Bot API
+
+**Тестовая документация:**
+
+| Документ | Описание | Файл |
+|---------|----------|------|
+| Test Plan | Стратегия тестирования, scope, risks, entry/exit criteria, RTM | [MetaCheck_Tест_План.xlsx](docs/qa/MetaCheck_Tест_План.xlsx) |
+| Test Cases | Детальные тест-кейсы + сводки по модулям | [MetaCheck_тест_кейс.xlsx](docs/qa/MetaCheck_тест_кейс.xlsx) |
+| Test Summary Report | Итоговый отчёт о тестировании | [MetaCheck_отчет_о_тестировании.docx](docs/qa/MetaCheck_отчет_о_тестировании.docx) |
