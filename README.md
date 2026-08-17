@@ -61,3 +61,5 @@
 | Test Plan | [MetaCheck_Test_Plan.xlsx](https://github.com/Mishadovydenkov/telegram-employee-checkin/blob/main/docs/qa/MetaCheck_Test_Plan.xlsx) |
 | Test Cases | [MetaCheck_Test_Cases.xlsx](https://github.com/Mishadovydenkov/telegram-employee-checkin/blob/main/docs/qa/MetaCheck_Test_Cases.xlsx) |
 | Test Summary Report | [MetaCheck_Test_Summary_Report.docx](https://github.com/Mishadovydenkov/telegram-employee-checkin/blob/main/docs/qa/MetaCheck_Test_Summary_Report.docx) |
+
+| [Ссылка на проект](https://github.com/Mishadovydenkov/MetaCheck)
