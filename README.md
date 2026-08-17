@@ -56,8 +56,8 @@
 
 **Тестовая документация:**
 
-| Документ | Описание | Файл |
-|---------|----------|------|
-| Test Plan | Стратегия тестирования, scope, risks, entry/exit criteria, RTM | [MetaCheck_Tест_План.xlsx](docs/qa/MetaCheck_Tест_План.xlsx) |
-| Test Cases | Детальные тест-кейсы + сводки по модулям | [MetaCheck_тест_кейс.xlsx](docs/qa/MetaCheck_тест_кейс.xlsx) |
-| Test Summary Report | Итоговый отчёт о тестировании | [MetaCheck_отчет_о_тестировании.docx](docs/qa/MetaCheck_отчет_о_тестировании.docx) |
+| Документ | Ссылка |
+|---------|--------|
+| Test Plan | [MetaCheck_Test_Plan.xlsx](https://github.com/Mishadovydenkov/telegram-employee-checkin/blob/main/docs/qa/MetaCheck_Test_Plan.xlsx) |
+| Test Cases | [MetaCheck_Test_Cases.xlsx](https://github.com/Mishadovydenkov/telegram-employee-checkin/blob/main/docs/qa/MetaCheck_Test_Cases.xlsx) |
+| Test Summary Report | [MetaCheck_Test_Summary_Report.docx](https://github.com/Mishadovydenkov/telegram-employee-checkin/blob/main/docs/qa/MetaCheck_Test_Summary_Report.docx) |
